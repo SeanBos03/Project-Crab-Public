@@ -1,0 +1,4 @@
+Width: 150 tiles
+Height: 60 tiles
+
+Pixel: 32x32

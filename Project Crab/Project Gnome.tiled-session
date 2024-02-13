@@ -1,0 +1,492 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#Button": {
+            "scaleInDock": 1
+        },
+        "#MenuBackgroundPlaceholder": {
+            "scaleInDock": 1
+        },
+        "C:/Users/seanb/Documents/CMGT GXP/GXP Projects/projects/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map1.tmx": {
+            "expandedObjectLayers": [
+                11,
+                6
+            ],
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1150.0000000000002,
+                "y": 728.7878787878788
+            }
+        },
+        "C:/Users/seanb/Documents/CMGT GXP/GXP Projects/projects/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map1.tmx#Tileset": {
+            "scaleInDock": 0.5
+        },
+        "C:/Users/seanb/Documents/CMGT GXP/GXP Projects/projects/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map1.tmx#coin": {
+            "scaleInDock": 0.12
+        },
+        "C:/Users/seanb/Documents/CMGT GXP/GXP Projects/projects/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map1.tmx#playerSpritesheet": {
+            "scaleInDock": 0.12
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/levelCompletedMenu.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4,
+                2,
+                5
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 595.9999999999999,
+                "y": 320.6666666666667
+            }
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/levelCompletedMenu.tmx#Button GXP": {
+            "scaleInDock": 1
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/levelCompletedMenu.tmx#MenuBackgroundPlaceholder": {
+            "scaleInDock": 1
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map2.tmx": {
+            "expandedObjectLayers": [
+                11,
+                6
+            ],
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 2988,
+                "y": 1022
+            }
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map2.tmx#Tileset": {
+            "scaleInDock": 0.75
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map2.tmx#coin": {
+            "scaleInDock": 1
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map2.tmx#healthPickup": {
+            "scaleInDock": 1
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map2.tmx#playerSpritesheet": {
+            "scaleInDock": 1
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map3.tmx": {
+            "expandedObjectLayers": [
+                11,
+                6
+            ],
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 2945.454545454545,
+                "y": 1001.5151515151515
+            }
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map3.tmx#Tileset": {
+            "scaleInDock": 0.33
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map3.tmx#coin": {
+            "scaleInDock": 1
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map3.tmx#healthPickup": {
+            "scaleInDock": 1
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map3.tmx#playerSpritesheet": {
+            "scaleInDock": 1
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map3.tmx#troll011": {
+            "scaleInDock": 1
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/menuLevelSelect.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4,
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 615.9999999999999,
+                "y": 320.6666666666667
+            }
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/menuLevelSelect.tmx#Button Look": {
+            "scaleInDock": 1
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/menuLevelSelect.tmx#MenuBackgroundPlaceholder": {
+            "scaleInDock": 1
+        },
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/menuLevelSelect.tmx#arrow left": {
+            "scaleInDock": 1
+        },
+        "endTextMenu.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4,
+                2
+            ],
+            "scale": 0.7611875,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 539.9458083586501,
+                "y": 518.2691518187042
+            }
+        },
+        "endTextMenu.tmx#Button": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "introTextMenu.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4,
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 539.9999999999999,
+                "y": 110
+            }
+        },
+        "introTextMenu.tmx#Button": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "levelCompletedMenu.tmx": {
+            "expandedObjectLayers": [
+                5,
+                3,
+                4,
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 543.3333333333333,
+                "y": 315.33333333333337
+            }
+        },
+        "levelCompletedMenu.tmx#Button": {
+            "scaleInDock": 1
+        },
+        "levelCompletedMenu.tmx#Button GXP": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "levelCompletedMenu.tmx#MenuBackgroundPlaceholder": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "levelCompletedMenu.tmx#Start": {
+            "scaleInDock": 1
+        },
+        "levelCompletedMenu.tmx#arrow1": {
+            "scaleInDock": 1
+        },
+        "levelCompletedMenuEnd.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 437.33333333333337,
+                "y": 340.6666666666667
+            }
+        },
+        "levelCompletedMenuEnd.tmx#Button GXP": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "levelCompletedMenuEnd.tmx#MenuBackgroundPlaceholder": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "levelPassedMenu.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4,
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 296.6666666666667,
+                "y": 370
+            }
+        },
+        "levelPassedMenu.tmx#Button": {
+            "scaleInDock": 1
+        },
+        "levelPassedMenu.tmx#MenuBackgroundPlaceholder": {
+            "scaleInDock": 1
+        },
+        "levelPassedMenu.tmx#arrow1": {
+            "scaleInDock": 1
+        },
+        "levelPassedMenuEnd.tmx": {
+            "scale": 0.7611875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 428.93505213892763,
+                "y": 293.62016585926597
+            }
+        },
+        "levelPassedMenuEnd.tmx#Button": {
+            "scaleInDock": 1
+        },
+        "levelPassedMenuEnd.tmx#MenuBackgroundPlaceholder": {
+            "scaleInDock": 1
+        },
+        "levelPassedMenuEnd.tmx#arrow1": {
+            "scaleInDock": 1
+        },
+        "mainMenu.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4,
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 269.99999999999994,
+                "y": 295.33333333333337
+            }
+        },
+        "mainMenu.tmx#MainMenu": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        },
+        "mainMenu.tmx#Options": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        },
+        "mainMenu.tmx#Options Button": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        },
+        "mainMenu.tmx#Start": {
+            "scaleInDock": 1
+        },
+        "mainMenu.tmx#StartButton": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        },
+        "map1.tmx": {
+            "expandedObjectLayers": [
+                6,
+                11
+            ],
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1418,
+                "y": 634
+            }
+        },
+        "map1.tmx#DungeonCrawl_ProjectUtumnoTileset": {
+            "scaleInDock": 0.75
+        },
+        "map1.tmx#Tileset": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "map1.tmx#coin": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        },
+        "map1.tmx#pexels-kai-pilger-1341279": {
+            "scaleInDock": 1
+        },
+        "map1.tmx#playerSpritesheet": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        },
+        "map1.tmx#spritesheet (2)": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "map2.tmx": {
+            "expandedObjectLayers": [
+                6,
+                11
+            ],
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 512.6666666666667,
+                "y": 1494
+            }
+        },
+        "map2.tmx#DungeonCrawl_ProjectUtumnoTileset": {
+            "scaleInDock": 0.75
+        },
+        "map2.tmx#Tileset": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "map2.tmx#coin": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map2.tmx#healthPickup": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map2.tmx#pexels-kai-pilger-1341279": {
+            "scaleInDock": 1
+        },
+        "map2.tmx#playerSpritesheet": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map2.tmx#spritesheet (2)": {
+            "scaleInDock": 1
+        },
+        "map3.tmx": {
+            "expandedObjectLayers": [
+                6,
+                11
+            ],
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 470.5,
+                "y": 1489.5
+            }
+        },
+        "map3.tmx#DungeonCrawl_ProjectUtumnoTileset": {
+            "scaleInDock": 1
+        },
+        "map3.tmx#Tileset": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "map3.tmx#coin": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map3.tmx#healthPickup": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map3.tmx#pexels-kai-pilger-1341279": {
+            "scaleInDock": 1
+        },
+        "map3.tmx#playerSpritesheet": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map3.tmx#spritesheet (2)": {
+            "scaleInDock": 1
+        },
+        "map3.tmx#troll011": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "menuLevelSelect - Copy.tmx": {
+            "scale": 1.2480624999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 400.22034152937056,
+                "y": 300.06510090640495
+            }
+        },
+        "menuLevelSelect - Copy.tmx#Button": {
+            "scaleInDock": 1
+        },
+        "menuLevelSelect - Copy.tmx#MenuBackgroundPlaceholder": {
+            "scaleInDock": 1
+        },
+        "menuLevelSelect - Copy.tmx#arrow1": {
+            "scaleInDock": 1
+        },
+        "menuLevelSelect.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4,
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 603.9999999999999,
+                "y": 680.6666666666665
+            }
+        },
+        "menuLevelSelect.tmx#Button": {
+            "scaleInDock": 1
+        },
+        "menuLevelSelect.tmx#Button Look": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "menuLevelSelect.tmx#MenuBackgroundPlaceholder": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "menuLevelSelect.tmx#arrow left": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "menuLevelSelect.tmx#arrow1": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/seanb/Documents/Tiled and GXP/Project Gnome/GXPEngine - Project Gnome/GXPEngine/bin/Debug",
+    "last.externalTilesetPath": "C:/Users/seanb/Documents/CMGT GXP/GXP Projects/projects/GXPEngine - Project Gnome/GXPEngine/bin/Debug",
+    "last.imagePath": "C:/Users/seanb/Documents/CMGT GXP/GXP Projects/projects/GXPEngine - Project Gnome/GXPEngine/bin/Debug",
+    "map.height": 60,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 10,
+    "map.tileWidth": 10,
+    "map.width": 80,
+    "openFiles": [
+        "map3.tmx",
+        "map1.tmx",
+        "map2.tmx",
+        "mainMenu.tmx",
+        "levelCompletedMenu.tmx"
+    ],
+    "project": "Project Gnome.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "map3.tmx",
+        "levelCompletedMenu.tmx",
+        "mainMenu.tmx",
+        "map2.tmx",
+        "map1.tmx",
+        "menuLevelSelect.tmx",
+        "levelCompletedMenuEnd.tmx",
+        "introTextMenu.tmx",
+        "endTextMenu.tmx",
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/levelCompletedMenu.tmx",
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/map2.tmx",
+        "C:/Users/seanb/Downloads/Gnome Game/GXPEngine - Project Gnome/GXPEngine/bin/Debug/menuLevelSelect.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "All Files (*)",
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 617,
+        "width": 900
+    }
+}
